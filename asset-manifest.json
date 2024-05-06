@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ReduxCartify/static/css/main.33fc6f40.css",
-    "main.js": "/ReduxCartify/static/js/main.ca124637.js",
+    "main.css": "/ReduxCartify/static/css/main.6194e3ff.css",
+    "main.js": "/ReduxCartify/static/js/main.cb073456.js",
     "index.html": "/ReduxCartify/index.html",
-    "main.33fc6f40.css.map": "/ReduxCartify/static/css/main.33fc6f40.css.map",
-    "main.ca124637.js.map": "/ReduxCartify/static/js/main.ca124637.js.map"
+    "main.6194e3ff.css.map": "/ReduxCartify/static/css/main.6194e3ff.css.map",
+    "main.cb073456.js.map": "/ReduxCartify/static/js/main.cb073456.js.map"
   },
   "entrypoints": [
-    "static/css/main.33fc6f40.css",
-    "static/js/main.ca124637.js"
+    "static/css/main.6194e3ff.css",
+    "static/js/main.cb073456.js"
   ]
 }
